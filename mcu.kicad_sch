@@ -3044,7 +3044,7 @@
 		)
 		(uuid "00c33dc3-255c-48a4-950a-162f738e3ed4")
 	)
-	(label "GPIO0"
+	(label "GPIO10"
 		(at 205.74 125.73 180)
 		(effects
 			(font
