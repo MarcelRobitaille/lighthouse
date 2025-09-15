@@ -1,12 +1,22 @@
 (kicad_sch
-	(version 20231120)
+	(version 20250114)
 	(generator "eeschema")
-	(generator_version "8.0")
+	(generator_version "9.0")
 	(uuid "50da2b4e-34b1-4787-8ee6-5d7d17f804f4")
 	(paper "A5")
 	(lib_symbols)
 	(bus_alias "SPI"
 		(members "MOSI" "MISO" "SCLK" "~{CS}")
+	)
+	(text "TX/RX flipped in USB sheet."
+		(exclude_from_sim no)
+		(at 76.2 58.42 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "244b8a04-bf6f-4142-9b19-d34e5d34d4b0")
 	)
 	(junction
 		(at 90.17 43.18)
@@ -184,19 +194,13 @@
 		)
 		(uuid "df1983dd-ed40-442f-a3e6-dba1c7e12903")
 	)
-	(text "TX/RX flipped in USB sheet."
-		(exclude_from_sim no)
-		(at 76.2 58.42 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "244b8a04-bf6f-4142-9b19-d34e5d34d4b0")
-	)
 	(sheet
 		(at 67.31 39.37)
 		(size 12.7 7.62)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(stroke
 			(width 0.1524)
@@ -226,23 +230,23 @@
 		)
 		(pin "3V3" output
 			(at 80.01 43.18 0)
+			(uuid "90d306e7-2b53-4519-95e2-90edaa2a7669")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "90d306e7-2b53-4519-95e2-90edaa2a7669")
 		)
 		(pin "5V" input
 			(at 67.31 43.18 180)
+			(uuid "6032f158-071a-4623-8460-b5a8a9898378")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "6032f158-071a-4623-8460-b5a8a9898378")
 		)
 		(instances
 			(project "youdbetterrun"
@@ -255,6 +259,10 @@
 	(sheet
 		(at 92.71 53.34)
 		(size 25.4 17.78)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(stroke
 			(width 0.1524)
@@ -284,93 +292,93 @@
 		)
 		(pin "TXD" output
 			(at 92.71 59.69 180)
+			(uuid "e96b5cfd-2514-41a3-8869-3c8c71ee5b4f")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "e96b5cfd-2514-41a3-8869-3c8c71ee5b4f")
 		)
 		(pin "RXD" input
 			(at 92.71 62.23 180)
+			(uuid "46122c52-ec84-49f8-bb2a-39424ab49d9e")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "46122c52-ec84-49f8-bb2a-39424ab49d9e")
 		)
 		(pin "SPI{SPI}" bidirectional
 			(at 118.11 55.88 0)
+			(uuid "e14a1998-6ba9-4fac-bbb7-edc697ca5a0c")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "e14a1998-6ba9-4fac-bbb7-edc697ca5a0c")
 		)
 		(pin "3V3" input
 			(at 92.71 55.88 180)
+			(uuid "dec3254c-d0b7-46b3-9fe4-f39ba294024d")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "dec3254c-d0b7-46b3-9fe4-f39ba294024d")
 		)
 		(pin "GPIO0" input
 			(at 92.71 68.58 180)
+			(uuid "8614f482-99c5-4fd5-9b64-9f6f0647fb04")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "8614f482-99c5-4fd5-9b64-9f6f0647fb04")
 		)
 		(pin "~{RST}" input
 			(at 92.71 66.04 180)
+			(uuid "9ef3b123-0f06-41d7-a62f-4123f874048d")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "9ef3b123-0f06-41d7-a62f-4123f874048d")
 		)
 		(pin "EPD_BUSY" input
 			(at 118.11 60.96 0)
+			(uuid "b80fd3d3-880c-4014-93a3-8cf36e15235f")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "b80fd3d3-880c-4014-93a3-8cf36e15235f")
 		)
 		(pin "EPD_D{slash}C" output
 			(at 118.11 63.5 0)
+			(uuid "0da1e10c-e523-478d-a95c-dc422daf56a2")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "0da1e10c-e523-478d-a95c-dc422daf56a2")
 		)
 		(pin "EPD_RST" output
 			(at 118.11 66.04 0)
+			(uuid "66579a49-baa8-4b09-9d97-e69bcb43e751")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "66579a49-baa8-4b09-9d97-e69bcb43e751")
 		)
 		(instances
 			(project "youdbetterrun"
@@ -383,6 +391,10 @@
 	(sheet
 		(at 44.45 53.34)
 		(size 15.24 17.78)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(stroke
 			(width 0.1524)
@@ -421,53 +433,53 @@
 		)
 		(pin "TXD" output
 			(at 59.69 59.69 0)
+			(uuid "3a8215c4-bb7b-49b1-b6e0-96bde4a0927a")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "3a8215c4-bb7b-49b1-b6e0-96bde4a0927a")
 		)
 		(pin "RXD" input
 			(at 59.69 62.23 0)
+			(uuid "fb3d52a5-23a2-456f-8f8c-94815a244429")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "fb3d52a5-23a2-456f-8f8c-94815a244429")
 		)
 		(pin "5V" output
 			(at 59.69 55.88 0)
+			(uuid "4d3be58a-aa4e-4df5-8171-8cc53cf7d4a9")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "4d3be58a-aa4e-4df5-8171-8cc53cf7d4a9")
 		)
 		(pin "~{RST}" output
 			(at 59.69 66.04 0)
+			(uuid "624f87a7-f7fd-42c2-acdb-3f4020747f0f")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "624f87a7-f7fd-42c2-acdb-3f4020747f0f")
 		)
 		(pin "GPIO0" output
 			(at 59.69 68.58 0)
+			(uuid "6537f2c7-6b54-4693-8bff-c398e4fcc4d7")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "6537f2c7-6b54-4693-8bff-c398e4fcc4d7")
 		)
 		(instances
 			(project "youdbetterrun"
@@ -480,6 +492,10 @@
 	(sheet
 		(at 133.35 46.99)
 		(size 19.05 22.86)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(stroke
 			(width 0.1524)
@@ -509,53 +525,53 @@
 		)
 		(pin "SPI{SPI}" bidirectional
 			(at 133.35 55.88 180)
+			(uuid "dcf2e7ec-e13f-435c-afdc-6af5a7b8bfad")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "dcf2e7ec-e13f-435c-afdc-6af5a7b8bfad")
 		)
 		(pin "3V3" input
 			(at 133.35 50.8 180)
+			(uuid "8886c7ca-ab7d-42dc-9a50-9e242336f23b")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "8886c7ca-ab7d-42dc-9a50-9e242336f23b")
 		)
 		(pin "EPD_D{slash}C" input
 			(at 133.35 63.5 180)
+			(uuid "191469ab-d343-48a5-932c-5cd0a5194499")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "191469ab-d343-48a5-932c-5cd0a5194499")
 		)
 		(pin "EPD_RST" input
 			(at 133.35 66.04 180)
+			(uuid "29a3c807-b06c-4215-a14a-69619feffc11")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "29a3c807-b06c-4215-a14a-69619feffc11")
 		)
 		(pin "EPD_BUSY" output
 			(at 133.35 60.96 180)
+			(uuid "cc084c23-28a3-4a07-a3fd-d1aabc34b834")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "cc084c23-28a3-4a07-a3fd-d1aabc34b834")
 		)
 		(instances
 			(project "youdbetterrun"
@@ -570,4 +586,5 @@
 			(page "1")
 		)
 	)
+	(embedded_fonts no)
 )
