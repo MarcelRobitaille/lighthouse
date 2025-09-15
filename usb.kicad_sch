@@ -1833,7 +1833,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "Transistor_BJT:S8050"
+		(symbol "Transistor_BJT:Q_NPN_BEC"
 			(pin_names
 				(offset 0)
 				(hide yes)
@@ -1842,7 +1842,7 @@
 			(in_bom yes)
 			(on_board yes)
 			(property "Reference" "Q"
-				(at 5.08 1.905 0)
+				(at 5.08 1.27 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -1850,8 +1850,8 @@
 					(justify left)
 				)
 			)
-			(property "Value" "S8050"
-				(at 5.08 0 0)
+			(property "Value" "Q_NPN_BEC"
+				(at 5.08 -1.27 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -1859,24 +1859,12 @@
 					(justify left)
 				)
 			)
-			(property "Footprint" "Package_TO_SOT_THT:TO-92_Inline"
-				(at 5.08 -1.905 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-						(italic yes)
-					)
-					(justify left)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "http://www.unisonic.com.tw/datasheet/S8050.pdf"
-				(at 0 0 0)
+			(property "Footprint" ""
+				(at 5.08 2.54 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(justify left)
 					(hide yes)
 				)
 			)
@@ -1898,7 +1886,7 @@
 					(hide yes)
 				)
 			)
-			(property "ki_fp_filters" "TO?92*"
+			(property "ki_keywords" "BJT"
 				(at 0 0 0)
 				(effects
 					(font
@@ -1907,10 +1895,10 @@
 					(hide yes)
 				)
 			)
-			(symbol "S8050_0_1"
+			(symbol "Q_NPN_BEC_0_1"
 				(polyline
 					(pts
-						(xy 0 0) (xy 0.635 0)
+						(xy -2.54 0) (xy 0.635 0)
 					)
 					(stroke
 						(width 0)
@@ -1922,34 +1910,10 @@
 				)
 				(polyline
 					(pts
-						(xy 0.635 1.905) (xy 0.635 -1.905) (xy 0.635 -1.905)
+						(xy 0.635 1.905) (xy 0.635 -1.905)
 					)
 					(stroke
 						(width 0.508)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0.635 0.635) (xy 2.54 2.54)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0.635 -0.635) (xy 2.54 -2.54) (xy 2.54 -2.54)
-					)
-					(stroke
-						(width 0)
 						(type default)
 					)
 					(fill
@@ -1967,9 +1931,35 @@
 						(type none)
 					)
 				)
+			)
+			(symbol "Q_NPN_BEC_1_1"
 				(polyline
 					(pts
-						(xy 1.27 -1.778) (xy 1.778 -1.27) (xy 2.286 -2.286) (xy 1.27 -1.778) (xy 1.27 -1.778)
+						(xy 0.635 0.635) (xy 2.54 2.54)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.635 -0.635) (xy 2.54 -2.54)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 -1.778) (xy 1.778 -1.27) (xy 2.286 -2.286) (xy 1.27 -1.778)
 					)
 					(stroke
 						(width 0)
@@ -1979,11 +1969,9 @@
 						(type outline)
 					)
 				)
-			)
-			(symbol "S8050_1_1"
 				(pin input line
 					(at -5.08 0 0)
-					(length 5.08)
+					(length 2.54)
 					(name "B"
 						(effects
 							(font
@@ -1991,7 +1979,7 @@
 							)
 						)
 					)
-					(number "2"
+					(number "1"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -2027,7 +2015,7 @@
 							)
 						)
 					)
-					(number "1"
+					(number "2"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -3603,7 +3591,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Transistor_BJT:S8050")
+		(lib_id "Transistor_BJT:Q_NPN_BEC")
 		(at 256.54 119.38 0)
 		(mirror x)
 		(unit 1)
@@ -3631,27 +3619,24 @@
 			)
 		)
 		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-3"
-			(at 261.62 117.475 0)
+			(at 261.62 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
-					(italic yes)
 				)
-				(justify left)
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "http://www.unisonic.com.tw/datasheet/S8050.pdf"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C2891804.pdf"
 			(at 256.54 119.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 				(hide yes)
 			)
 		)
-		(property "Description" "0.7A Ic, 20V Vce, Low Voltage High Current NPN Transistor, TO-92"
+		(property "Description" "Bipolar (BJT) Transistor NPN 25 V 500 mA 150MHz 300 mW Surface Mount SOT-23"
 			(at 256.54 119.38 0)
 			(effects
 				(font
@@ -5871,7 +5856,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Transistor_BJT:S8050")
+		(lib_id "Transistor_BJT:Q_NPN_BEC")
 		(at 256.54 93.98 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -5881,7 +5866,7 @@
 		(fields_autoplaced yes)
 		(uuid "ddba2182-bb5f-4691-b234-5f7c825ae098")
 		(property "Reference" "Q201"
-			(at 261.62 92.71 0)
+			(at 261.62 92.7099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5890,7 +5875,7 @@
 			)
 		)
 		(property "Value" "S8050"
-			(at 261.62 95.25 0)
+			(at 261.62 95.2499 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5899,27 +5884,24 @@
 			)
 		)
 		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-3"
-			(at 261.62 95.885 0)
+			(at 261.62 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
-					(italic yes)
 				)
-				(justify left)
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "http://www.unisonic.com.tw/datasheet/S8050.pdf"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C2891804.pdf"
 			(at 256.54 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 				(hide yes)
 			)
 		)
-		(property "Description" "0.7A Ic, 20V Vce, Low Voltage High Current NPN Transistor, TO-92"
+		(property "Description" "Bipolar (BJT) Transistor NPN 25 V 500 mA 150MHz 300 mW Surface Mount SOT-23"
 			(at 256.54 93.98 0)
 			(effects
 				(font
