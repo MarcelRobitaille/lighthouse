@@ -510,32 +510,7 @@
     "equivalence_files": []
   },
   "erc": {
-    "erc_exclusions": [
-      [
-        "multiple_net_names|2184400|1041400|cd4b424e-cd7d-4a62-a4a7-67ab015e35d5|8edccd44-b5b3-4c37-9ee3-181b5993a769|/50da2b4e-34b1-4787-8ee6-5d7d17f804f4/81f185f6-8abd-42b2-b2d9-f7e00f67ab8b|/50da2b4e-34b1-4787-8ee6-5d7d17f804f4/81f185f6-8abd-42b2-b2d9-f7e00f67ab8b|/50da2b4e-34b1-4787-8ee6-5d7d17f804f4/81f185f6-8abd-42b2-b2d9-f7e00f67ab8b",
-        ""
-      ],
-      [
-        "multiple_net_names|2184400|1066800|1bc31a8a-c21a-4a6d-a8f8-a2677d1931e7|de033a86-39bc-446f-be39-32bc40e95ae2|/50da2b4e-34b1-4787-8ee6-5d7d17f804f4/81f185f6-8abd-42b2-b2d9-f7e00f67ab8b|/50da2b4e-34b1-4787-8ee6-5d7d17f804f4/81f185f6-8abd-42b2-b2d9-f7e00f67ab8b|/50da2b4e-34b1-4787-8ee6-5d7d17f804f4/81f185f6-8abd-42b2-b2d9-f7e00f67ab8b",
-        ""
-      ],
-      [
-        "multiple_net_names|2184400|1117600|92657c51-2167-4a69-b7c7-779329298078|1b40bd55-0f1a-4729-bddd-c56e68dc0e4f|/50da2b4e-34b1-4787-8ee6-5d7d17f804f4/81f185f6-8abd-42b2-b2d9-f7e00f67ab8b|/50da2b4e-34b1-4787-8ee6-5d7d17f804f4/81f185f6-8abd-42b2-b2d9-f7e00f67ab8b|/50da2b4e-34b1-4787-8ee6-5d7d17f804f4/81f185f6-8abd-42b2-b2d9-f7e00f67ab8b",
-        ""
-      ],
-      [
-        "multiple_net_names|2184400|1143000|da3a4a81-bdf7-4019-8e14-a19c7079671a|43d30081-3f2f-4d15-a13e-78dd8d067fda|/50da2b4e-34b1-4787-8ee6-5d7d17f804f4/81f185f6-8abd-42b2-b2d9-f7e00f67ab8b|/50da2b4e-34b1-4787-8ee6-5d7d17f804f4/81f185f6-8abd-42b2-b2d9-f7e00f67ab8b|/50da2b4e-34b1-4787-8ee6-5d7d17f804f4/81f185f6-8abd-42b2-b2d9-f7e00f67ab8b",
-        ""
-      ],
-      [
-        "pin_to_pin|863600|812800|a9b228bc-1070-4b31-9d0b-1d0dffe7d1a4|0a0bbce0-4852-49d3-9254-ef101c4744da|/50da2b4e-34b1-4787-8ee6-5d7d17f804f4/f4385d0c-ccf3-4d3d-b542-befa1847bb73|/50da2b4e-34b1-4787-8ee6-5d7d17f804f4/f4385d0c-ccf3-4d3d-b542-befa1847bb73|/50da2b4e-34b1-4787-8ee6-5d7d17f804f4/951b5697-f1e3-4d2e-841e-7032f41eb35f",
-        ""
-      ],
-      [
-        "power_pin_not_driven|508000|1016000|6bd2bea4-ea97-4e8a-ae24-61eb54c52132|00000000-0000-0000-0000-000000000000|/50da2b4e-34b1-4787-8ee6-5d7d17f804f4/951b5697-f1e3-4d2e-841e-7032f41eb35f|/50da2b4e-34b1-4787-8ee6-5d7d17f804f4/951b5697-f1e3-4d2e-841e-7032f41eb35f|",
-        ""
-      ]
-    ],
+    "erc_exclusions": [],
     "meta": {
       "version": 0
     },
