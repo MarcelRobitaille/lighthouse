@@ -1,4 +1,4 @@
 (sym_lib_table
   (version 7)
-  (lib (name "youdbetterrun")(type "KiCad")(uri "${KIPRJMOD}/youdbetterrun.kicad_sym")(options "")(descr ""))
+  (lib (name "bedroom_lights")(type "KiCad")(uri "${KIPRJMOD}/bedroom_lights.kicad_sym")(options "")(descr ""))
 )
