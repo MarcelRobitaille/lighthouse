@@ -737,14 +737,14 @@
   },
   "libraries": {
     "pinned_footprint_libs": [
-      "bedroom_lights"
+      "lighthouse"
     ],
     "pinned_symbol_libs": [
-      "bedroom_lights"
+      "lighthouse"
     ]
   },
   "meta": {
-    "filename": "bedroom_lights.kicad_pro",
+    "filename": "lighthouse.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -783,7 +783,7 @@
       "plot": "Fabrication Artifacts",
       "pos_files": "Fabrication Artifacts/",
       "specctra_dsn": "",
-      "step": "../../../tmp/bedroom_lights.step",
+      "step": "../../../tmp/lighthouse.step",
       "svg": "",
       "vrml": ""
     },

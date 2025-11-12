@@ -2496,7 +2496,7 @@
 		(property ki_fp_filters "MountingHole*Pad*")
 		(path "/4faa7df1-45e2-4a11-b7e4-9f2c5eb34028")
 		(sheetname "/")
-		(sheetfile "bedroom_lights.kicad_sch")
+		(sheetfile "lighthouse.kicad_sch")
 		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
@@ -7313,7 +7313,7 @@
 			)
 		)
 	)
-	(footprint "bedroom_lights:USB_C_Receptacle_G-Switch_GT-USB-7010ASV"
+	(footprint "lighthouse:USB_C_Receptacle_G-Switch_GT-USB-7010ASV"
 		(layer "F.Cu")
 		(uuid "60c73a5b-5d08-47e0-8793-9cfe1c23923c")
 		(at 188 68 90)
@@ -7869,7 +7869,7 @@
 		(property ki_fp_filters "MountingHole*Pad*")
 		(path "/c4e2a512-0d48-43ba-827c-8cefedbad129")
 		(sheetname "/")
-		(sheetfile "bedroom_lights.kicad_sch")
+		(sheetfile "lighthouse.kicad_sch")
 		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
@@ -8835,7 +8835,7 @@
 		(property ki_fp_filters "MountingHole*Pad*")
 		(path "/25d798a0-7941-4fa6-bfa6-a7a7e550be31")
 		(sheetname "/")
-		(sheetfile "bedroom_lights.kicad_sch")
+		(sheetfile "lighthouse.kicad_sch")
 		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
@@ -10254,7 +10254,7 @@
 		(property ki_fp_filters "MountingHole*Pad*")
 		(path "/2f9d359a-6a82-4a8d-81e5-92a3301ac823")
 		(sheetname "/")
-		(sheetfile "bedroom_lights.kicad_sch")
+		(sheetfile "lighthouse.kicad_sch")
 		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
@@ -11124,7 +11124,7 @@
 			)
 		)
 	)
-	(footprint "bedroom_lights:TS-1088R-02026_SW_SMD_3x4mm"
+	(footprint "lighthouse:TS-1088R-02026_SW_SMD_3x4mm"
 		(layer "F.Cu")
 		(uuid "97f20b9e-b6ab-4ca9-bebe-7ec97477f21b")
 		(at 173 82.5 90)
@@ -17090,7 +17090,7 @@
 			)
 		)
 	)
-	(footprint "bedroom_lights:TS-1088R-02026_SW_SMD_3x4mm"
+	(footprint "lighthouse:TS-1088R-02026_SW_SMD_3x4mm"
 		(layer "F.Cu")
 		(uuid "c9ca6af4-a378-4bd5-8628-a1f1d36a989c")
 		(at 177 82.5 -90)

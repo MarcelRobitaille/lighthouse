@@ -1457,7 +1457,7 @@
 			(uuid "5adabe58-74e2-4676-8423-ed1bd52304d0")
 		)
 		(instances
-			(project "bedroom_lights"
+			(project "lighthouse"
 				(path "/50da2b4e-34b1-4787-8ee6-5d7d17f804f4/24a142cd-f5a4-43f3-bf7b-72898fc2b81f"
 					(reference "#PWR029")
 					(unit 1)
@@ -1561,7 +1561,7 @@
 			(uuid "989bc0e4-229f-4f18-96b1-353d9df04ec3")
 		)
 		(instances
-			(project "bedroom_lights"
+			(project "lighthouse"
 				(path "/50da2b4e-34b1-4787-8ee6-5d7d17f804f4/24a142cd-f5a4-43f3-bf7b-72898fc2b81f"
 					(reference "Q8")
 					(unit 1)
@@ -1631,7 +1631,7 @@
 			(uuid "ec444d91-da85-45f5-8504-30289d27e9b7")
 		)
 		(instances
-			(project "bedroom_lights"
+			(project "lighthouse"
 				(path "/50da2b4e-34b1-4787-8ee6-5d7d17f804f4/24a142cd-f5a4-43f3-bf7b-72898fc2b81f"
 					(reference "#PWR030")
 					(unit 1)
@@ -1701,7 +1701,7 @@
 			(uuid "73554d57-a1a0-485f-8cd2-fb6a67c2ac87")
 		)
 		(instances
-			(project "bedroom_lights"
+			(project "lighthouse"
 				(path "/50da2b4e-34b1-4787-8ee6-5d7d17f804f4/24a142cd-f5a4-43f3-bf7b-72898fc2b81f"
 					(reference "#PWR031")
 					(unit 1)
@@ -1776,7 +1776,7 @@
 			(uuid "01afbfc9-3fb8-48e5-9011-b8b1b3dfc3f7")
 		)
 		(instances
-			(project "bedroom_lights"
+			(project "lighthouse"
 				(path "/50da2b4e-34b1-4787-8ee6-5d7d17f804f4/24a142cd-f5a4-43f3-bf7b-72898fc2b81f"
 					(reference "JP1")
 					(unit 1)
@@ -1849,7 +1849,7 @@
 			(uuid "f6574c84-4fa1-48ed-8a99-ff882c96e576")
 		)
 		(instances
-			(project "bedroom_lights"
+			(project "lighthouse"
 				(path "/50da2b4e-34b1-4787-8ee6-5d7d17f804f4/24a142cd-f5a4-43f3-bf7b-72898fc2b81f"
 					(reference "J8")
 					(unit 1)
@@ -1923,7 +1923,7 @@
 			(uuid "d8620502-0f2e-46fc-b851-27546666057e")
 		)
 		(instances
-			(project "bedroom_lights"
+			(project "lighthouse"
 				(path "/50da2b4e-34b1-4787-8ee6-5d7d17f804f4/24a142cd-f5a4-43f3-bf7b-72898fc2b81f"
 					(reference "R19")
 					(unit 1)
@@ -1995,7 +1995,7 @@
 			(uuid "7041e97f-1cd9-415d-9ac1-d1ed500f7a88")
 		)
 		(instances
-			(project "bedroom_lights"
+			(project "lighthouse"
 				(path "/50da2b4e-34b1-4787-8ee6-5d7d17f804f4/24a142cd-f5a4-43f3-bf7b-72898fc2b81f"
 					(reference "R18")
 					(unit 1)
@@ -2067,7 +2067,7 @@
 			(uuid "4ec3b6e4-69af-41af-96b4-b61e77155802")
 		)
 		(instances
-			(project "bedroom_lights"
+			(project "lighthouse"
 				(path "/50da2b4e-34b1-4787-8ee6-5d7d17f804f4/24a142cd-f5a4-43f3-bf7b-72898fc2b81f"
 					(reference "J9")
 					(unit 1)
@@ -2180,7 +2180,7 @@
 			(uuid "3e151389-eb10-4480-9b2f-392a569ce301")
 		)
 		(instances
-			(project "bedroom_lights"
+			(project "lighthouse"
 				(path "/50da2b4e-34b1-4787-8ee6-5d7d17f804f4/24a142cd-f5a4-43f3-bf7b-72898fc2b81f"
 					(reference "Q7")
 					(unit 1)

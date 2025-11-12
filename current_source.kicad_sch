@@ -1533,7 +1533,7 @@
 			(uuid "753c7f91-4e0f-4890-bd5b-7766d41a2433")
 		)
 		(instances
-			(project "bedroom_lights"
+			(project "lighthouse"
 				(path "/50da2b4e-34b1-4787-8ee6-5d7d17f804f4/117f74af-fc81-4184-8c11-ca44f9a8ebdb"
 					(reference "#PWR028")
 					(unit 1)
@@ -1605,7 +1605,7 @@
 			(uuid "769cc830-df10-47bf-8944-ba8414b6cc1c")
 		)
 		(instances
-			(project "bedroom_lights"
+			(project "lighthouse"
 				(path "/50da2b4e-34b1-4787-8ee6-5d7d17f804f4/117f74af-fc81-4184-8c11-ca44f9a8ebdb"
 					(reference "R17")
 					(unit 1)
@@ -1751,7 +1751,7 @@
 			(uuid "fad83c7d-58fc-43a7-b996-50ca44aa0494")
 		)
 		(instances
-			(project "bedroom_lights"
+			(project "lighthouse"
 				(path "/50da2b4e-34b1-4787-8ee6-5d7d17f804f4/117f74af-fc81-4184-8c11-ca44f9a8ebdb"
 					(reference "U6")
 					(unit 1)
@@ -1825,7 +1825,7 @@
 			(uuid "da7eab33-718a-4f9a-8c95-dae732eaa524")
 		)
 		(instances
-			(project "bedroom_lights"
+			(project "lighthouse"
 				(path "/50da2b4e-34b1-4787-8ee6-5d7d17f804f4/117f74af-fc81-4184-8c11-ca44f9a8ebdb"
 					(reference "R16")
 					(unit 1)
@@ -1897,7 +1897,7 @@
 			(uuid "e33be6f4-02d5-4803-b7a6-78f40cfc6530")
 		)
 		(instances
-			(project "bedroom_lights"
+			(project "lighthouse"
 				(path "/50da2b4e-34b1-4787-8ee6-5d7d17f804f4/117f74af-fc81-4184-8c11-ca44f9a8ebdb"
 					(reference "R15")
 					(unit 1)
@@ -2028,7 +2028,7 @@
 			(uuid "158d562d-3e03-4a27-bbf2-f5167121b53a")
 		)
 		(instances
-			(project "bedroom_lights"
+			(project "lighthouse"
 				(path "/50da2b4e-34b1-4787-8ee6-5d7d17f804f4/117f74af-fc81-4184-8c11-ca44f9a8ebdb"
 					(reference "Q6")
 					(unit 1)
@@ -2100,7 +2100,7 @@
 			(uuid "f5160e4d-d3eb-4582-b7ca-6f33b8dc173a")
 		)
 		(instances
-			(project "bedroom_lights"
+			(project "lighthouse"
 				(path "/50da2b4e-34b1-4787-8ee6-5d7d17f804f4/117f74af-fc81-4184-8c11-ca44f9a8ebdb"
 					(reference "J7")
 					(unit 1)
@@ -2213,7 +2213,7 @@
 			(uuid "65ec6ba4-a0cf-4855-a2de-8c34a5943836")
 		)
 		(instances
-			(project "bedroom_lights"
+			(project "lighthouse"
 				(path "/50da2b4e-34b1-4787-8ee6-5d7d17f804f4/117f74af-fc81-4184-8c11-ca44f9a8ebdb"
 					(reference "Q5")
 					(unit 1)
@@ -2283,7 +2283,7 @@
 			(uuid "f654eff6-7ff4-4660-8b12-92a4ee4fb9ea")
 		)
 		(instances
-			(project "bedroom_lights"
+			(project "lighthouse"
 				(path "/50da2b4e-34b1-4787-8ee6-5d7d17f804f4/117f74af-fc81-4184-8c11-ca44f9a8ebdb"
 					(reference "#PWR027")
 					(unit 1)

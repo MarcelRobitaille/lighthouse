@@ -2,8 +2,8 @@
 
 set -e
 
-readonly pcbFile="bedroom_lights.kicad_pcb"
-readonly schFile="bedroom_lights.kicad_sch"
+readonly pcbFile="lighthouse.kicad_pcb"
+readonly schFile="lighthouse.kicad_sch"
 readonly revision="RevA"
 readonly outputFolder="$(pwd)/fabrication artifacts ${revision}"
 readonly projectName="Lighthouse"
