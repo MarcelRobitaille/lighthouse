@@ -2,7 +2,9 @@
 
 > Lighthouse is a PCB that controls lights in my house.
 
-![Lighthouse Logo](./logo.svg)
+<img width="10%" src="./logo.svg">
+
+
 
 ## Features
 
