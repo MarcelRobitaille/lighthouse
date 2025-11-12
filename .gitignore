@@ -1,6 +1,6 @@
 *.lck
 _autosave*
-Fabrication Artifacts
+fabrication artifacts*
 BOM.csv
 .kiri
 *.rpt
