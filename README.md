@@ -4,7 +4,7 @@
 
 <img width="10%" src="./logo.svg">
 
-
+![3D Render of the PCB](./docs/pcb_render_front.png)
 
 ## Features
 

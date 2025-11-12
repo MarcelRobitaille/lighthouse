@@ -2057,7 +2057,7 @@
 				)
 			)
 		)
-		(property "Value" "From_E-stop"
+		(property "Value" "TB0010-500-02GR"
 			(at 167.64 62.23 0)
 			(effects
 				(font
@@ -2066,7 +2066,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "TerminalBlock:TerminalBlock_MaiXu_MX126-5.0-02P_1x02_P5.00mm"
+		(property "Footprint" "lighthouse:TerminalBlock_TB0010-500-02GR_1x02_P5.00mm"
 			(at 167.64 66.04 0)
 			(effects
 				(font
