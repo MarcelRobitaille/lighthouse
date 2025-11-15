@@ -3466,6 +3466,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufactuer" ""
+			(at 50.8 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "A1"
 			(uuid "0c17d537-5224-429b-9a13-e6152b62b395")
 		)
@@ -3581,7 +3590,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part Number" "C2891804"
+		(property "LCSC Part Number" ""
 			(at 256.54 119.38 0)
 			(effects
 				(font
@@ -3590,7 +3599,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "S8050"
+		(property "MPN" "MMSS8050-L-TP "
 			(at 256.54 119.38 0)
 			(effects
 				(font
@@ -3599,7 +3608,25 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "YONGYUTAI"
+		(property "Manufacturer" "Micro Commercial Components (MCC)"
+			(at 256.54 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufactuer" ""
+			(at 256.54 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "833-MMSS8050-L-TP"
 			(at 256.54 119.38 0)
 			(effects
 				(font
@@ -3681,7 +3708,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part Number" "C27834"
+		(property "LCSC Part Number" ""
 			(at 91.44 91.44 0)
 			(effects
 				(font
@@ -3708,7 +3735,7 @@
 				(justify left)
 			)
 		)
-		(property "MPN" "0805W8F5101T5E"
+		(property "MPN" "CRCW08055K10FKEAC"
 			(at 91.44 91.44 0)
 			(effects
 				(font
@@ -3717,7 +3744,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "UNI-ROYAL(Uniroyal Elec)"
+		(property "Manufacturer" "Vishay "
 			(at 91.44 91.44 0)
 			(effects
 				(font
@@ -3745,6 +3772,24 @@
 			)
 		)
 		(property "Tolerance" "1%"
+			(at 91.44 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufactuer" ""
+			(at 91.44 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "71-CRCW08055K10FKEAC"
 			(at 91.44 91.44 0)
 			(effects
 				(font
@@ -4115,6 +4160,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufactuer" ""
+			(at 144.78 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "31e8a3ca-e527-4ffb-8419-76068e12ac26")
 		)
@@ -4233,7 +4287,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.mouser.de/datasheet/3/40/1/cr.pdf"
 			(at 160.02 43.18 0)
 			(effects
 				(font
@@ -4267,7 +4321,7 @@
 				)
 			)
 		)
-		(property "LCSC Part Number" "C17673"
+		(property "LCSC Part Number" ""
 			(at 160.02 43.18 0)
 			(effects
 				(font
@@ -4276,7 +4330,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "0805W8F4701T5E"
+		(property "MPN" "CR0805-FX-4701ELF "
 			(at 160.02 43.18 0)
 			(effects
 				(font
@@ -4285,7 +4339,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "UNI-ROYAL(Uniroyal Elec)"
+		(property "Manufacturer" "Bourns"
 			(at 160.02 43.18 0)
 			(effects
 				(font
@@ -4294,7 +4348,43 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser Part Number" ""
+		(property "Mouser Part Number" "652-CR0805FX-4701ELF "
+			(at 160.02 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufactuer" ""
+			(at 160.02 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "0805"
+			(at 160.02 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Power" "125 mW"
+			(at 160.02 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Tolerance" "1%"
 			(at 160.02 43.18 0)
 			(effects
 				(font
@@ -4352,7 +4442,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.vishay.com/docs/20035/dcrcwe3.pdf"
 			(at 241.3 93.98 0)
 			(effects
 				(font
@@ -4370,7 +4460,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part Number" "C17444"
+		(property "LCSC Part Number" ""
 			(at 241.3 93.98 0)
 			(effects
 				(font
@@ -4397,7 +4487,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "0805W8F1202T5E"
+		(property "MPN" "CRCW080512K0JNEA"
 			(at 241.3 93.98 0)
 			(effects
 				(font
@@ -4406,7 +4496,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "UNI-ROYAL(Uniroyal Elec)"
+		(property "Manufacturer" "Vishay "
 			(at 241.3 93.98 0)
 			(effects
 				(font
@@ -4435,6 +4525,24 @@
 		)
 		(property "Tolerance" "1%"
 			(at 241.3 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufactuer" ""
+			(at 241.3 93.98 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "71-CRCW080512K0JNEA "
+			(at 241.3 93.98 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4668,6 +4776,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufactuer" ""
+			(at 157.48 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "9e190df8-7128-4e33-96c3-896f77217d60")
 		)
@@ -4828,6 +4945,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufactuer" ""
+			(at 127 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "61b322b0-292d-4322-b42a-6505ae420650")
 		)
@@ -4943,6 +5069,15 @@
 			)
 		)
 		(property "Mouser Part Number" ""
+			(at 175.26 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufactuer" ""
 			(at 175.26 83.82 0)
 			(effects
 				(font
@@ -5069,7 +5204,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.vishay.com/docs/20035/dcrcwe3.pdf"
 			(at 241.3 119.38 0)
 			(effects
 				(font
@@ -5087,7 +5222,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part Number" "C17444"
+		(property "LCSC Part Number" ""
 			(at 241.3 119.38 0)
 			(effects
 				(font
@@ -5114,7 +5249,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "0805W8F1202T5E"
+		(property "MPN" "CRCW080512K0JNEA"
 			(at 241.3 119.38 0)
 			(effects
 				(font
@@ -5123,7 +5258,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "UNI-ROYAL(Uniroyal Elec)"
+		(property "Manufacturer" "Vishay "
 			(at 241.3 119.38 0)
 			(effects
 				(font
@@ -5152,6 +5287,24 @@
 		)
 		(property "Tolerance" "1%"
 			(at 241.3 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufactuer" ""
+			(at 241.3 119.38 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "71-CRCW080512K0JNEA "
+			(at 241.3 119.38 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5257,6 +5410,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufactuer" ""
+			(at 121.92 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "4"
 			(uuid "26ac070d-fa74-4a4d-b40f-75a25183e38f")
 		)
@@ -5332,7 +5494,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part Number" "C27834"
+		(property "LCSC Part Number" ""
 			(at 86.36 91.44 0)
 			(effects
 				(font
@@ -5359,7 +5521,7 @@
 				(justify left)
 			)
 		)
-		(property "MPN" "0805W8F5101T5E"
+		(property "MPN" "CRCW08055K10FKEAC"
 			(at 86.36 91.44 0)
 			(effects
 				(font
@@ -5368,7 +5530,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "UNI-ROYAL(Uniroyal Elec)"
+		(property "Manufacturer" "Vishay "
 			(at 86.36 91.44 0)
 			(effects
 				(font
@@ -5396,6 +5558,24 @@
 			)
 		)
 		(property "Tolerance" "1%"
+			(at 86.36 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufactuer" ""
+			(at 86.36 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "71-CRCW08055K10FKEAC"
 			(at 86.36 91.44 0)
 			(effects
 				(font
@@ -5700,6 +5880,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufactuer" ""
+			(at 139.7 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "67c541bf-6788-4a1f-bbec-94131f231fe0")
 		)
@@ -5846,7 +6035,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part Number" "C2891804"
+		(property "LCSC Part Number" ""
 			(at 256.54 93.98 0)
 			(effects
 				(font
@@ -5855,7 +6044,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "S8050"
+		(property "MPN" "MMSS8050-L-TP "
 			(at 256.54 93.98 0)
 			(effects
 				(font
@@ -5864,7 +6053,25 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "YONGYUTAI"
+		(property "Manufacturer" "Micro Commercial Components (MCC)"
+			(at 256.54 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufactuer" ""
+			(at 256.54 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "833-MMSS8050-L-TP"
 			(at 256.54 93.98 0)
 			(effects
 				(font

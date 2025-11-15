@@ -1551,6 +1551,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufactuer" ""
+			(at 101.6 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "76b3652e-a68c-4fb8-bc4d-c1cbf2b24f8b")
 		)
@@ -1766,6 +1775,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufactuer" ""
+			(at 50.8 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "f06739b7-eee0-454e-a797-57d9f0f6230a")
 		)
@@ -1834,6 +1852,15 @@
 			)
 		)
 		(property "Description" "Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 35.56 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufactuer" ""
 			(at 35.56 48.26 0)
 			(effects
 				(font
@@ -1916,6 +1943,78 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part Number" ""
+			(at 86.36 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CRCW080510K0JNEAC"
+			(at 86.36 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Vishay "
+			(at 86.36 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "0805"
+			(at 86.36 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Power" "125mW"
+			(at 86.36 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Tolerance" "5 %"
+			(at 86.36 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufactuer" ""
+			(at 86.36 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "71-CRCW080510K0JNEAC"
+			(at 86.36 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "f51927ce-30b1-4167-ad9d-4c3977c5bff2")
 		)
@@ -1981,6 +2080,51 @@
 		)
 		(property "Description" "Resistor, small symbol"
 			(at 66.04 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CRCW0805220RJNEA "
+			(at 66.04 76.2 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Vishay "
+			(at 66.04 76.2 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "71-CRCW0805220RJNEA "
+			(at 66.04 76.2 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "0805"
+			(at 66.04 76.2 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufactuer" ""
+			(at 66.04 76.2 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2060,6 +2204,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufactuer" ""
+			(at 116.84 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "5490f60d-711a-42ca-bb1f-4009ee4ba5c9")
 		)
@@ -2098,7 +2251,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "S8050"
+		(property "Value" "MMSS8050-H-TP"
 			(at 88.9 77.4699 0)
 			(effects
 				(font
@@ -2162,6 +2315,15 @@
 			)
 		)
 		(property "Digikey Part Number" "MMSS8050-H-TPMSCT-ND"
+			(at 83.82 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufactuer" ""
 			(at 83.82 76.2 0)
 			(effects
 				(font

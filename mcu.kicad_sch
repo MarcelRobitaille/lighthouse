@@ -4012,6 +4012,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufactuer" ""
+			(at 106.68 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "54991391-e39c-49b0-ae9c-959782fdbbe9")
 		)
@@ -4091,7 +4100,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part Number" "C5189822"
+		(property "LCSC Part Number" ""
 			(at 93.98 60.96 0)
 			(effects
 				(font
@@ -4118,7 +4127,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "CS2012X7R106M100NRE"
+		(property "MPN" "CL21A106KOQNNNE"
 			(at 93.98 60.96 0)
 			(effects
 				(font
@@ -4127,7 +4136,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Samwha Capacitor"
+		(property "Manufacturer" "Samsung Electro-Mechanics"
 			(at 93.98 60.96 0)
 			(effects
 				(font
@@ -4145,7 +4154,7 @@
 				(hide yes)
 			)
 		)
-		(property "Rated Voltage" "10V"
+		(property "Rated Voltage" "16V"
 			(at 93.98 60.96 0)
 			(effects
 				(font
@@ -4154,7 +4163,25 @@
 				(hide yes)
 			)
 		)
-		(property "Tolerance" "20%"
+		(property "Tolerance" "10%"
+			(at 93.98 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufactuer" ""
+			(at 93.98 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "187-CL21A106KOQNNNE"
 			(at 93.98 60.96 0)
 			(effects
 				(font
@@ -4280,7 +4307,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.vishay.com/docs/20035/dcrcwe3.pdf"
 			(at 132.08 81.28 0)
 			(effects
 				(font
@@ -4291,6 +4318,69 @@
 		)
 		(property "Description" "Resistor, small symbol"
 			(at 132.08 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CRCW0805470RFKEA "
+			(at 132.08 81.28 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Vishay "
+			(at 132.08 81.28 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "71-CRCW0805-470-E3"
+			(at 132.08 81.28 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufactuer" ""
+			(at 132.08 81.28 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "0805"
+			(at 132.08 81.28 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Power" "250 mW"
+			(at 132.08 81.28 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Tolerance" "1%"
+			(at 132.08 81.28 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4410,6 +4500,15 @@
 			)
 		)
 		(property "Mouser Part Number" ""
+			(at 99.06 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufactuer" ""
 			(at 99.06 147.32 0)
 			(effects
 				(font
@@ -4562,6 +4661,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufactuer" ""
+			(at 68.58 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "86985586-2662-4190-9544-3a89ba765fb9")
 		)
@@ -4662,7 +4770,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part Number" "C17414"
+		(property "LCSC Part Number" ""
 			(at 134.62 132.08 0)
 			(effects
 				(font
@@ -4689,7 +4797,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "0805W8F1002T5E"
+		(property "MPN" "CRCW080510K0JNEAC"
 			(at 134.62 132.08 0)
 			(effects
 				(font
@@ -4698,7 +4806,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "UNI-ROYAL(Uniroyal Elec)"
+		(property "Manufacturer" "Vishay "
 			(at 134.62 132.08 0)
 			(effects
 				(font
@@ -4725,7 +4833,25 @@
 				(hide yes)
 			)
 		)
-		(property "Tolerance" "1%"
+		(property "Tolerance" "5 %"
+			(at 134.62 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufactuer" ""
+			(at 134.62 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "71-CRCW080510K0JNEAC"
 			(at 134.62 132.08 0)
 			(effects
 				(font
@@ -4870,7 +4996,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part Number" "C17414"
+		(property "LCSC Part Number" ""
 			(at 139.7 63.5 0)
 			(effects
 				(font
@@ -4897,7 +5023,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "0805W8F1002T5E"
+		(property "MPN" "CRCW080510K0JNEAC"
 			(at 139.7 63.5 0)
 			(effects
 				(font
@@ -4906,7 +5032,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "UNI-ROYAL(Uniroyal Elec)"
+		(property "Manufacturer" "Vishay "
 			(at 139.7 63.5 0)
 			(effects
 				(font
@@ -4933,7 +5059,25 @@
 				(hide yes)
 			)
 		)
-		(property "Tolerance" "1%"
+		(property "Tolerance" "5 %"
+			(at 139.7 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufactuer" ""
+			(at 139.7 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "71-CRCW080510K0JNEAC"
 			(at 139.7 63.5 0)
 			(effects
 				(font
@@ -5059,7 +5203,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.we-online.com/components/products/datasheet/885012007038.pdf"
 			(at 185.42 78.74 0)
 			(effects
 				(font
@@ -5069,6 +5213,42 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 185.42 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "885012007038 "
+			(at 185.42 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" " 710-885012007038 "
+			(at 185.42 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Wurth Elektronik"
+			(at 185.42 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufactuer" ""
 			(at 185.42 78.74 0)
 			(effects
 				(font
@@ -5212,7 +5392,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part Number" "C17414"
+		(property "LCSC Part Number" ""
 			(at 177.8 63.5 0)
 			(effects
 				(font
@@ -5239,7 +5419,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "0805W8F1002T5E"
+		(property "MPN" "CRCW080510K0JNEAC"
 			(at 177.8 63.5 0)
 			(effects
 				(font
@@ -5248,7 +5428,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "UNI-ROYAL(Uniroyal Elec)"
+		(property "Manufacturer" "Vishay "
 			(at 177.8 63.5 0)
 			(effects
 				(font
@@ -5275,7 +5455,25 @@
 				(hide yes)
 			)
 		)
-		(property "Tolerance" "1%"
+		(property "Tolerance" "5 %"
+			(at 177.8 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufactuer" ""
+			(at 177.8 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "71-CRCW080510K0JNEAC"
 			(at 177.8 63.5 0)
 			(effects
 				(font
@@ -5374,6 +5572,15 @@
 			)
 		)
 		(property "Manufacturer" "Ai-Thinker"
+			(at 160.02 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufactuer" ""
 			(at 160.02 104.14 0)
 			(effects
 				(font
@@ -5511,7 +5718,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part Number" "C17414"
+		(property "LCSC Part Number" ""
 			(at 142.24 63.5 0)
 			(effects
 				(font
@@ -5538,7 +5745,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "0805W8F1002T5E"
+		(property "MPN" "CRCW080510K0JNEAC"
 			(at 142.24 63.5 0)
 			(effects
 				(font
@@ -5547,7 +5754,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "UNI-ROYAL(Uniroyal Elec)"
+		(property "Manufacturer" "Vishay "
 			(at 142.24 63.5 0)
 			(effects
 				(font
@@ -5574,7 +5781,25 @@
 				(hide yes)
 			)
 		)
-		(property "Tolerance" "1%"
+		(property "Tolerance" "5 %"
+			(at 142.24 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufactuer" ""
+			(at 142.24 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "71-CRCW080510K0JNEAC"
 			(at 142.24 63.5 0)
 			(effects
 				(font
@@ -5703,6 +5928,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufactuer" ""
+			(at 121.92 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "812cac00-4cb4-4f0e-811c-1a392cb708a1")
 		)
@@ -5773,7 +6007,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part Number" "C17414"
+		(property "LCSC Part Number" ""
 			(at 180.34 63.5 0)
 			(effects
 				(font
@@ -5800,7 +6034,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "0805W8F1002T5E"
+		(property "MPN" "CRCW080510K0JNEAC"
 			(at 180.34 63.5 0)
 			(effects
 				(font
@@ -5809,7 +6043,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "UNI-ROYAL(Uniroyal Elec)"
+		(property "Manufacturer" "Vishay "
 			(at 180.34 63.5 0)
 			(effects
 				(font
@@ -5836,7 +6070,25 @@
 				(hide yes)
 			)
 		)
-		(property "Tolerance" "1%"
+		(property "Tolerance" "5 %"
+			(at 180.34 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufactuer" ""
+			(at 180.34 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "71-CRCW080510K0JNEAC"
 			(at 180.34 63.5 0)
 			(effects
 				(font
@@ -5959,6 +6211,15 @@
 		)
 		(property "Mouser Part Number" ""
 			(at 198.12 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufactuer" ""
+			(at 198.12 78.74 90)
 			(effects
 				(font
 					(size 1.27 1.27)

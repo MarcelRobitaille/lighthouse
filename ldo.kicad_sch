@@ -2227,6 +2227,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufactuer" ""
+			(at 101.6 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "21d86f83-b535-45b3-b1b0-2656399583bb")
 		)
@@ -2289,6 +2298,15 @@
 			)
 		)
 		(property "Description" "Polarized capacitor, small symbol"
+			(at 53.34 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufactuer" ""
 			(at 53.34 66.04 0)
 			(effects
 				(font
@@ -2498,6 +2516,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufactuer" ""
+			(at 73.66 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "8ddf228c-fd07-48a6-8487-8ddc03993530")
 		)
@@ -2585,6 +2612,15 @@
 			)
 		)
 		(property "Mouser Part Number" "863-MBR120ESFT1G "
+			(at 86.36 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufactuer" ""
 			(at 86.36 60.96 0)
 			(effects
 				(font
@@ -2820,6 +2856,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufactuer" ""
+			(at 33.02 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "d7b0a2e5-8ac3-40dc-a658-3b65c8d058fe")
 		)
@@ -2884,6 +2929,15 @@
 			)
 		)
 		(property "Description" "Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 35.56 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufactuer" ""
 			(at 35.56 48.26 0)
 			(effects
 				(font
@@ -3045,6 +3099,15 @@
 			)
 		)
 		(property "Mouser Part Number" "863-MBR120ESFT1G "
+			(at 86.36 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufactuer" ""
 			(at 86.36 50.8 0)
 			(effects
 				(font
@@ -3215,6 +3278,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufactuer" ""
+			(at 63.5 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "175b165c-65b7-4780-b4b0-1bafb1b80f6d")
 		)
@@ -3305,6 +3377,15 @@
 			)
 		)
 		(property "Manufacturer" "MaxLinear"
+			(at 119.38 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufactuer" ""
 			(at 119.38 63.5 0)
 			(effects
 				(font
@@ -3472,6 +3553,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufactuer" ""
+			(at 129.54 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "e272a3a9-e0bc-4c2c-ad97-cbff3884f72d")
 		)
@@ -3560,7 +3650,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part Number" "C5189822"
+		(property "LCSC Part Number" ""
 			(at 149.86 71.12 0)
 			(effects
 				(font
@@ -3587,7 +3677,7 @@
 				(justify left)
 			)
 		)
-		(property "MPN" "CS2012X7R106M100NRE"
+		(property "MPN" "CL21A106KOQNNNE"
 			(at 149.86 71.12 0)
 			(effects
 				(font
@@ -3596,7 +3686,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Samwha Capacitor"
+		(property "Manufacturer" "Samsung Electro-Mechanics"
 			(at 149.86 71.12 0)
 			(effects
 				(font
@@ -3614,7 +3704,7 @@
 				(hide yes)
 			)
 		)
-		(property "Rated Voltage" "10V"
+		(property "Rated Voltage" "16V"
 			(at 149.86 71.12 0)
 			(effects
 				(font
@@ -3623,7 +3713,7 @@
 				(hide yes)
 			)
 		)
-		(property "Tolerance" "20%"
+		(property "Tolerance" "10%"
 			(at 149.86 71.12 0)
 			(effects
 				(font
@@ -3632,7 +3722,16 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser Part Number" ""
+		(property "Mouser Part Number" "187-CL21A106KOQNNNE"
+			(at 149.86 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufactuer" ""
 			(at 149.86 71.12 0)
 			(effects
 				(font
